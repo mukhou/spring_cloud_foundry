@@ -1,0 +1,7 @@
+{  
+  "git":{  
+    "uri":"https://github.com/mukhou/config-server.git",
+    "label":"master",
+    "searchPaths":"dev"
+  }
+}
